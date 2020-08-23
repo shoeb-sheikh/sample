@@ -1,0 +1,51 @@
+#but1{
+				color:#ffffff;
+				border-radius:5px;
+				border: 1px solid black;
+				font-size:10px;
+				height:30px;
+				width:60px;
+				}
+
+/*#but1:hover{
+								text-shadow:5px blue;
+								}*/
+
+.col-red{
+				background-color:red;
+				}
+
+
+.col-green{
+				background-color:green;
+				}
+
+
+.col-blue{
+				background-color:blue;
+				}
+
+
+.col-pink{
+				background-color:pink;
+				}
+
+
+.col-purple{
+				background-color:#b474ff;
+				}
+
+
+.col-orange{
+				background-color:orange;
+				}
+
+
+.col-yellow{
+				background-color:yellow;
+				}
+				
+				
+.col-black{
+				background-color:black;
+				}
